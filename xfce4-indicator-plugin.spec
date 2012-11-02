@@ -3,13 +3,12 @@
 Summary:	Indicator plugin for the Xfce panel
 Name:		xfce4-indicator-plugin
 Version:	0.5.0
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
 URL:		http://goodies.xfce.org/projects/panel-plugins/xfce4-netload-plugin
 Source0:	http://archive.xfce.org/src/panel-plugins/%{name}/%{url_ver}/%{name}-%{version}.tar.bz2
-#Requires:	xfce4-panel
-#BuildRequires:	perl(XML::Parser)
+Requires:	xfce4-panel
 BuildRequires:	pkgconfig(libxfce4ui-1)
 BuildRequires:	pkgconfig(libxfce4panel-1.0)
 BuildRequires:	pkgconfig(indicator-0.4)
