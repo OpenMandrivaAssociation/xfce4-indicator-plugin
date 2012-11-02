@@ -13,6 +13,7 @@ Source0:	http://archive.xfce.org/src/panel-plugins/%{name}/%{url_ver}/%{name}-%{
 BuildRequires:	pkgconfig(libxfce4ui-1)
 BuildRequires:	pkgconfig(libxfce4panel-1.0)
 BuildRequires:	pkgconfig(indicator-0.4)
+BuildRequires:	pkgconfig(exo-1)
 
 %description
 An indicator panel plugin for the Xfce Desktop Environment.
