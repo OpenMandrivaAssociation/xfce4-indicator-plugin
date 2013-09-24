@@ -2,8 +2,8 @@
 
 Summary:	Indicator plugin for the Xfce panel
 Name:		xfce4-indicator-plugin
-Version:	0.5.0
-Release:	2
+Version:	2.1.0
+Release:	0
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
 URL:		http://goodies.xfce.org/projects/panel-plugins/xfce4-netload-plugin
@@ -20,7 +20,7 @@ An indicator panel plugin for the Xfce Desktop Environment.
 %setup -q
 
 %build
-%configure2_5x --disable-static
+%configure2_5x
 %make
 
 %install
