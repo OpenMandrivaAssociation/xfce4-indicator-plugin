@@ -1,3 +1,4 @@
----
-sources:
+removed_sources:
   xfce4-indicator-plugin-2.1.0.tar.bz2: 8b36540e27d3efe21b6a584e28c8ef05c817d951
+sources:
+  xfce4-indicator-plugin-2.3.2.tar.bz2: 7d3bfb637149f0bc9c972fd5b5e53df3c543c35f

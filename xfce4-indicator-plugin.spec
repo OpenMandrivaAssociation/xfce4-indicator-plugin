@@ -2,7 +2,7 @@
 
 Summary:	Indicator plugin for the Xfce panel
 Name:		xfce4-indicator-plugin
-Version:	2.1.0
+Version:	2.3.2
 Release:	0
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
