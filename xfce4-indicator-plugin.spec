@@ -3,7 +3,7 @@
 Summary:	Indicator plugin for the Xfce panel
 Name:		xfce4-indicator-plugin
 Version:	2.3.2
-Release:	0
+Release:	1
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
 URL:		http://goodies.xfce.org/projects/panel-plugins/xfce4-netload-plugin
