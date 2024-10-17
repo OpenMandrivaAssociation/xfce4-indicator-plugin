@@ -6,7 +6,7 @@ Version:	2.3.2
 Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
-URL:		http://goodies.xfce.org/projects/panel-plugins/xfce4-netload-plugin
+URL:		https://goodies.xfce.org/projects/panel-plugins/xfce4-netload-plugin
 Source0:	http://archive.xfce.org/src/panel-plugins/%{name}/%{url_ver}/%{name}-%{version}.tar.bz2
 Requires:	xfce4-panel
 BuildRequires:	pkgconfig(libxfce4ui-1)
